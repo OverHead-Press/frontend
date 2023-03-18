@@ -1,0 +1,1 @@
+export const TEST_NAME :string = 'TEST_NAME';
